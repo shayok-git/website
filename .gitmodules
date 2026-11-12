@@ -1,0 +1,3 @@
+[submodule "bitdoze-astro-theme"]
+	path = bitdoze-astro-theme
+	url = https://github.com/shayok-git/bitdoze-astro-theme.git
