@@ -1,0 +1,76 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>Back Home</sitename>
+	<photographer>Shayok Mukhopadhyay</photographer>
+	<contactinfo>shayok@shortwork.net</contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "Back-Home-1.jpg"
+width = "646"
+height = "800"
+thumbpath = "Back-Home-1.jpg"
+thumbwidth = "161"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Bronx Museum AIM 2017 Biennial installation view]]></meta>
+</image>
+
+
+<image
+path = "Back-Home-3.jpg"
+width = "599"
+height = "800"
+thumbpath = "Back-Home-3.jpg"
+thumbwidth = "149"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Back Home (detail)]]></meta>
+</image>
+
+
+<image
+path = "Back-Home-4.jpg"
+width = "800"
+height = "533"
+thumbpath = "Back-Home-4.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+	<meta name = "description"><![CDATA[Back Home (detail)]]></meta>
+</image>
+
+
+<image
+path = "Back-Home-5.jpg"
+width = "800"
+height = "655"
+thumbpath = "Back-Home-5.jpg"
+thumbwidth = "200"
+thumbheight = "163">
+	<meta name = "description"><![CDATA[Back Home (detail)]]></meta>
+</image>
+
+
+<image
+path = "Back-Home-6.jpg"
+width = "800"
+height = "533"
+thumbpath = "Back-Home-6.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+	<meta name = "description"><![CDATA[Back Home (detail)]]></meta>
+</image>
+
+</images>
+</gallery>

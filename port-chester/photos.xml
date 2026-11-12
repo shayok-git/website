@@ -1,0 +1,386 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "8/24/2015">
+	<sitename>People of Port Chester</sitename>
+	<photographer>Shayok Mukhopadhyay</photographer>
+	<contactinfo>shayok@shortwork.net</contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "01-copyright-Shayok-Mukhopadhyay-20120131-00261420120128-liberty-tax-people.jpg"
+width = "800"
+height = "625"
+thumbpath = "01-copyright-Shayok-Mukhopadhyay-20120131-00261420120128-liberty-tax-people.jpg"
+thumbwidth = "200"
+thumbheight = "156">
+	<meta name = "description"><![CDATA[Advertising for Liberty Tax Service, Port Chester, January 31, 2012. Normally people in this kind of a costume are not too happy to be photographed, but this gentleman was proud to be doing this job since it was his own business he was advertising. His pride in his work inspired the People of Port Chester project.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "02-copyright-Shayok-Mukhopadhyay-20130610-185105_MG_1327-Edit.jpg"
+width = "639"
+height = "800"
+thumbpath = "02-copyright-Shayok-Mukhopadhyay-20130610-185105_MG_1327-Edit.jpg"
+thumbwidth = "159"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Port Chester]]></meta>
+	<meta name = "description"><![CDATA[Daughter Maria Ayala and mother Dolores Garcia de Mihaca are studying to appear for the Citizenship interview in a BOCES program held in the Edison school, Port Chester, June 10, 2013. Dolores is allowed to take the test in her native language because of her age and length of residency.]]></meta>
+</image>
+
+
+<image
+path = "03-copyright-Shayok-Mukhopadhyay-20130727-port-chester-elda-sanchez-2.jpg"
+width = "625"
+height = "800"
+thumbpath = "03-copyright-Shayok-Mukhopadhyay-20130727-port-chester-elda-sanchez-2.jpg"
+thumbwidth = "156"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Elda Sanchez (nee Contreras), worker at Albumx Corp for 16 years, at her home in Port Chester, July 27, 2013. As revenues have fallen, her paid vacation time has gone from four to two weeks. She doesn't find it worthwhile paying her share of the medical insurance plan. When the photograph was taken, Elda had just applied for U.S. citizenship, which she got a few months later.]]></meta>
+</image>
+
+
+<image
+path = "04-copyright-Shayok-Mukhopadhyay-20130629-port-chester-jehovas-witness-1.jpg"
+width = "639"
+height = "800"
+thumbpath = "04-copyright-Shayok-Mukhopadhyay-20130629-port-chester-jehovas-witness-1.jpg"
+thumbwidth = "159"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Port Chester]]></meta>
+	<meta name = "description"><![CDATA[Sylvia, Jehovah's Witness, June 29, 2013, Port Chester.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "05-copyright-Shayok-Mukhopadhyay-20130627-port-chester-window-washer-clown-1.jpg"
+width = "800"
+height = "627"
+thumbpath = "05-copyright-Shayok-Mukhopadhyay-20130627-port-chester-window-washer-clown-1.jpg"
+thumbwidth = "200"
+thumbheight = "156">
+	<meta name = "description"><![CDATA[Freddy Cantante, a clown and a window-washer and a Herbalife salesman, June 27, 2013, Port Chester.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "06-copyright-Shayok-Mukhopadhyay-20130711-port-chester-don-bosco-day-labor-stand-3men-1.jpg"
+width = "622"
+height = "800"
+thumbpath = "06-copyright-Shayok-Mukhopadhyay-20130711-port-chester-don-bosco-day-labor-stand-3men-1.jpg"
+thumbwidth = "155"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Port Chester]]></meta>
+	<meta name = "description"><![CDATA[Left to right, Robert, Man and Coby waiting for work at Don Bosco Day Labor stand, Port Chester, July 11, 2013. Robert goes to high school in Rowland, North Carolina, and is visiting his cousin who lives in Weber Drive, Port Chester. Robert plans to go to college next year.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "07-copyright-Shayok-Mukhopadhyay-20130621-port-chester-day-labor-office-1.jpg"
+width = "800"
+height = "635"
+thumbpath = "07-copyright-Shayok-Mukhopadhyay-20130621-port-chester-day-labor-office-1.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Gonzalo, of Port Chester Workers, in his office at Don Bosco Community Center, Port Chester, June 21, 2013. Port Chester Workers advocates for day laborers: every day they negotiate with employers who pick up laborers at the stand outside, and note down their phone number and car license plate. They also help workers recover unpaid wages, and provide them safety and rights training.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "08-copyright-Shayok-Mukhopadhyay-20130714-port-chester-pastor-feggans-1.jpg"
+width = "800"
+height = "633"
+thumbpath = "08-copyright-Shayok-Mukhopadhyay-20130714-port-chester-pastor-feggans-1.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Pastor Jared Feggans, Mt Zion Church, Port Chester, July 14, 2013. Many members of his largely black congregation come from outside Port Chester, some of whom moved away from the town, unhappy with changes within the black community, and the overall demographic change in the town.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "09-copyright-Shayok-Mukhopadhyay-20130317-port-chester-election-poster-1.jpg"
+width = "800"
+height = "625"
+thumbpath = "09-copyright-Shayok-Mukhopadhyay-20130317-port-chester-election-poster-1.jpg"
+thumbwidth = "200"
+thumbheight = "156">
+	<meta name = "description"><![CDATA[Wall with election poster, Port Chester, March 17, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "10-copyright-Shayok-Mukhopadhyay-20130721-port-chester-taxi-dispatcher-1.jpg"
+width = "800"
+height = "635"
+thumbpath = "10-copyright-Shayok-Mukhopadhyay-20130721-port-chester-taxi-dispatcher-1.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Dispatcher at Luso Taxi in the wee hours, Port Chester, July 21, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "11-copyright-Shayok-Mukhopadhyay-20130222-portchester-coyote-flaco-3.jpg"
+width = "800"
+height = "635"
+thumbpath = "11-copyright-Shayok-Mukhopadhyay-20130222-portchester-coyote-flaco-3.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Luis R. Lopez, owner of El Coyote Flaco, Port Chester. February 22, 2013. He has another location in Dutchess county. The restaurants are mostly run by his sons; he and his wife work on their off days or during the lighter lunch hour.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "12-copyright-Shayok-Mukhopadhyay-20130723-port-chester-irv-mart-owners-1.jpg"
+width = "631"
+height = "800"
+thumbpath = "12-copyright-Shayok-Mukhopadhyay-20130723-port-chester-irv-mart-owners-1.jpg"
+thumbwidth = "157"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Dharmishthu and Mauiesh Patel, owners of Irv's Mini Mart, Port Chester, July 22, 2013. They bought the business from their fellow countryman from Ahmedadabad, India, who went back to India. They and their Indian employees appear to speak fluent Spanish to their customers.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "13-copyright-Shayok-Mukhopadhyay-20130726-port-chester-irv-lotto-1.jpg"
+width = "800"
+height = "629"
+thumbpath = "13-copyright-Shayok-Mukhopadhyay-20130726-port-chester-irv-lotto-1.jpg"
+thumbwidth = "200"
+thumbheight = "157">
+	<meta name = "description"><![CDATA[Many spend hours playing the lottery at Irv's Mini Mart, Port Chester, July 26, 2013.]]></meta>
+</image>
+
+
+<image
+path = "14-copyright-Shayok-Mukhopadhyay-20130419-port-chester-dance-studio-4.jpg"
+width = "800"
+height = "631"
+thumbpath = "14-copyright-Shayok-Mukhopadhyay-20130419-port-chester-dance-studio-4.jpg"
+thumbwidth = "200"
+thumbheight = "157">
+	<meta name = "description"><![CDATA[Eddie Melendez, owner, Greenwich Ballroom, Port Chester, with student, April 19, 2013. This is one of the businesses that benefit from the proximity to the wealthy clientele in Greenwich, CT. Some clients spend four thousand dollars a month on lessons, and around ten thousand dollars to attend competitions with Eddie as a partner.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "15-copyright-Shayok-Mukhopadhyay-20130613-port-chester-carver-center-1.jpg"
+width = "800"
+height = "631"
+thumbpath = "15-copyright-Shayok-Mukhopadhyay-20130613-port-chester-carver-center-1.jpg"
+thumbwidth = "200"
+thumbheight = "157">
+	<meta name = "description"><![CDATA[Gustavo Diaz, chef at Carver Center, Port Chester, June 13, 2013. Carver Center gives out food and clothes.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "16-copyright-Shayok-Mukhopadhyay-20130305-port-chester-beer-1.jpg"
+width = "800"
+height = "631"
+thumbpath = "16-copyright-Shayok-Mukhopadhyay-20130305-port-chester-beer-1.jpg"
+thumbwidth = "200"
+thumbheight = "157">
+	<meta name = "description"><![CDATA[Erick Leon, Port Chester Beer, March 5, 2013. This is one of the businesses that benefit from proximity to the wealthy clientele from Greenwich, CT. I saw standard size bottles there that go for ten dollars; customers who spend $200 at a time on beer are common.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "17-copyright-Shayok-Mukhopadhyay-20130725-port-chester-laundromat-2.jpg"
+width = "800"
+height = "622"
+thumbpath = "17-copyright-Shayok-Mukhopadhyay-20130725-port-chester-laundromat-2.jpg"
+thumbwidth = "200"
+thumbheight = "155">
+	<meta name = "description"><![CDATA[Port Chester has an unusually high number of laundromats, reflecting its working class population who live without laundry facilities in their apartments or buildings. Late evening, July 25, 2013.]]></meta>
+</image>
+
+
+<image
+path = "18-copyright-Shayok-Mukhopadhyay-20130601-port-chester-walter-shmak-1.jpg"
+width = "639"
+height = "800"
+thumbpath = "18-copyright-Shayok-Mukhopadhyay-20130601-port-chester-walter-shmak-1.jpg"
+thumbwidth = "159"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Walter Shmak, photographed in the parking lot by Clay Art Center, was born in Port Chester in 1947. He feels the town is run-down, though some would call it "historical", he said. He has with him some discarded lotto tickets he picked up hoping to find a winner, grass for his rabbits, and an old computer part he was hoping to sell to a scrap dealer. Seeing my large format camera, he started talking about the history of photography, and spoke knowledgeably about photography during the Civil War. June 1, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "19-copyright-Shayok-Mukhopadhyay-20130621-port-chester-matthew-2.jpg"
+width = "637"
+height = "800"
+thumbpath = "19-copyright-Shayok-Mukhopadhyay-20130621-port-chester-matthew-2.jpg"
+thumbwidth = "159"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Port Chester]]></meta>
+	<meta name = "description"><![CDATA[Matthew, Port Chester, June 21, 2013. He lives in Port Chester, but says he prefers White Plains.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "20-copyright-Shayok-Mukhopadhyay-20130621-port-chester-young-men-projects-1.jpg"
+width = "635"
+height = "800"
+thumbpath = "20-copyright-Shayok-Mukhopadhyay-20130621-port-chester-young-men-projects-1.jpg"
+thumbwidth = "158"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Port Chester]]></meta>
+	<meta name = "description"><![CDATA[John and Trap (aka Mongo aka Mikey), Port Chester, June 21, 2013. Their friend refused to be in the photograph - he said did not want to support a Port Chester-related project because of the harassment he's faced from cops, namely being cited for trespassing in front of the building he lives in.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "21-copyright-Shayok-Mukhopadhyay-20130621-port-chester-flower-shop-1.jpg"
+width = "643"
+height = "800"
+thumbpath = "21-copyright-Shayok-Mukhopadhyay-20130621-port-chester-flower-shop-1.jpg"
+thumbwidth = "160"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Marielle, who lives in Riverside, CT, shops for plants in Port Chester, June 21, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "22-copyright-Shayok-Mukhopadhyay-20130621-port-chester-concrete-cutting-worker-1.jpg"
+width = "641"
+height = "800"
+thumbpath = "22-copyright-Shayok-Mukhopadhyay-20130621-port-chester-concrete-cutting-worker-1.jpg"
+thumbwidth = "160"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Port Chester]]></meta>
+	<meta name = "description"><![CDATA[Walter Gutierrez of Concrete Cutting, Port Chester, June 21, 2013. He previously worked at an Indian restaurant, but left for better pay.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "23-copyright-Shayok-Mukhopadhyay-20130613-port-chester-clay-art-4.jpg"
+width = "637"
+height = "800"
+thumbpath = "23-copyright-Shayok-Mukhopadhyay-20130613-port-chester-clay-art-4.jpg"
+thumbwidth = "159"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Port Chester]]></meta>
+	<meta name = "description"><![CDATA[Mike Stumbras, Artist-in-Residence, Clay Art Center, Port Chester, June 18, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "24-copyright-Shayok-Mukhopadhyay-20130709-port-chester-old-man-bus-stop-4.jpg"
+width = "635"
+height = "800"
+thumbpath = "24-copyright-Shayok-Mukhopadhyay-20130709-port-chester-old-man-bus-stop-4.jpg"
+thumbwidth = "158"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Port Chester]]></meta>
+	<meta name = "description"><![CDATA[Teddy Bamabaze has lived in Port Chester for 73 years, since he was 5. He was born in White Plains. He retired from the sanitation department of Port Chester, and now gets a monthly check from the union and social security. Port Chester, July 9, 2013. During winter, I often see him sheltering from the cold in a laundromat.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "25-copyright-Shayok-Mukhopadhyay-20130619-port-chester-showboat-inside-1.jpg"
+width = "800"
+height = "639"
+thumbpath = "25-copyright-Shayok-Mukhopadhyay-20130619-port-chester-showboat-inside-1.jpg"
+thumbwidth = "200"
+thumbheight = "159">
+	<meta name = "description"><![CDATA[Billy Frenz, musician-promoter-entrepreneur in his Show Boat that he plans to turn into an event venue. Port Chester, June 19, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "26-copyright-Shayok-Mukhopadhyay-20130721-port-chester-hubba-late-night-2.jpg"
+width = "800"
+height = "633"
+thumbpath = "26-copyright-Shayok-Mukhopadhyay-20130721-port-chester-hubba-late-night-2.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Hubba by night, Port Chester, July 21, 2013. This Port Chester institution sits on a thin sliver of a block, thus enjoying access from both Main and King Streets.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "27-copyright-Shayok-Mukhopadhyay-20130721-port-chester-hubba-late-night-1.jpg"
+width = "800"
+height = "622"
+thumbpath = "27-copyright-Shayok-Mukhopadhyay-20130721-port-chester-hubba-late-night-1.jpg"
+thumbwidth = "200"
+thumbheight = "155">
+	<meta name = "description"><![CDATA[Hubba, known for its chili, early morning, July 21, 2013, Port Chester. It is as popular for lunch as with the post-drinks crowd. This Port Chester institution sits on a thin sliver of a block, thus enjoying access from both Main and King Streets.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "28-copyright-Shayok-Mukhopadhyay-20130629-port-chester-hoodie-main-1.jpg"
+width = "800"
+height = "635"
+thumbpath = "28-copyright-Shayok-Mukhopadhyay-20130629-port-chester-hoodie-main-1.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Hoodie and Main eating breakfast after a night's work, Port Chester, June 29, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "29-copyright-Shayok-Mukhopadhyay-20130706-port-chester-wedding-couple-lawyer-4.jpg"
+width = "800"
+height = "635"
+thumbpath = "29-copyright-Shayok-Mukhopadhyay-20130706-port-chester-wedding-couple-lawyer-4.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Lawyer Jose Castaneda, bride Mahy C. Avila, groom Abel Hernandez at lawyer's office for marriage registration, Port Chester, July 6, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "30-copyright-Shayok-Mukhopadhyay-20130706-131850_MG_2145-Edit.jpg"
+width = "800"
+height = "639"
+thumbpath = "30-copyright-Shayok-Mukhopadhyay-20130706-131850_MG_2145-Edit.jpg"
+thumbwidth = "200"
+thumbheight = "159">
+	<meta name = "description"><![CDATA[Dance following mass wedding (matrimonio massivo) at Don Bosco church, July 6, 2013.]]></meta>
+</image>
+
+</images>
+</gallery>

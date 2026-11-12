@@ -1,0 +1,363 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>People of Willets Point</sitename>
+	<photographer>Shayok Mukhopadhyay</photographer>
+	<contactinfo>shayok@shortwork.net</contactinfo>
+	<email>shayok@shortwork.net</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "5" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "01_mukhopadhyay_shayok-20120303-willets-point-c.jpg"
+width = "633"
+height = "800"
+thumbpath = "01_mukhopadhyay_shayok-20120303-willets-point-c.jpg"
+thumbwidth = "158"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[Alfonso Villalva, Willets Point. While I was taking time setting up my camera, Alfonso ran into the shop to pick up the axle as a prop. March 3, 2012]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "02_mukhopadhyay_shayok-20120303-willets-point-palestinian-clothes-vendor-2c.jpg"
+width = "633"
+height = "800"
+thumbpath = "02_mukhopadhyay_shayok-20120303-willets-point-palestinian-clothes-vendor-2c.jpg"
+thumbwidth = "158"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[Azzam Bazrouk, an occasional actor and model, comes to Willets Point on Saturdays to sell clothes. March 3, 2012.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "03_mukhopadhyay_shayok-20130207-willets-pt-7.jpg"
+width = "640"
+height = "800"
+thumbpath = "03_mukhopadhyay_shayok-20130207-willets-pt-7.jpg"
+thumbwidth = "160"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Jorge, Willets Point, February 7, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "04_mukhopadhyay_shayok-20130124-12380420130117-willets-pt-tire-painter-01.jpg"
+width = "640"
+height = "800"
+thumbpath = "04_mukhopadhyay_shayok-20130124-12380420130117-willets-pt-tire-painter-01.jpg"
+thumbwidth = "160"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Jorge (aka Colombia), Willets Point, restoring old tires, in the shadow of Citi Field. January 17, 2013.]]></meta>
+</image>
+
+
+<image
+path = "05_mukhopadhyay_shayok-20130207-willets-pt-5.jpg"
+width = "630"
+height = "800"
+thumbpath = "05_mukhopadhyay_shayok-20130207-willets-pt-5.jpg"
+thumbwidth = "157"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[The city does not permit this busines to put up a permanent roof, hence they use recycled vinyl from billboards which they buy for $500. Willets Point, February 7, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "06_mukhopadhyay_shayok-20120307-willets-pt-dog-bath-3.jpg"
+width = "800"
+height = "611"
+thumbpath = "06_mukhopadhyay_shayok-20120307-willets-pt-dog-bath-3.jpg"
+thumbwidth = "200"
+thumbheight = "152">
+	<meta name = "description"><![CDATA[Alfonso power washes his dogs in front of his shop. Two of them were subsequently killed, one run over, another poisoned. Willets Point, March 7, 2012]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "07_mukhopadhyay_shayok-20130217-willets-pt-06.jpg"
+width = "800"
+height = "635"
+thumbpath = "07_mukhopadhyay_shayok-20130217-willets-pt-06.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Willets Point, February 17, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "08_mukhopadhyay_shayok-20120616-willets-pt-felix-1.jpg"
+width = "800"
+height = "625"
+thumbpath = "08_mukhopadhyay_shayok-20120616-willets-pt-felix-1.jpg"
+thumbwidth = "200"
+thumbheight = "156">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[Felix, after seeing my portfolio, complained that too much of my work was focused on transient workers, and suggested I should photograph more of the owners like him. Willets Point, June 16, 2012.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "09_mukhopadhyay_shayok-20120804-willets-pt-soccer-playrer.jpg"
+width = "800"
+height = "640"
+thumbpath = "09_mukhopadhyay_shayok-20120804-willets-pt-soccer-playrer.jpg"
+thumbwidth = "200"
+thumbheight = "160">
+	<meta name = "description"><![CDATA[Picacho, an enthusiastic participant in the soccer games in the lot of what used to be a junkyard. Willets Point, August 4, 2012.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "10_mukhopadhyay_shayok-20120528-willets-pt-lorraine-hernandez.jpg"
+width = "800"
+height = "630"
+thumbpath = "10_mukhopadhyay_shayok-20120528-willets-pt-lorraine-hernandez.jpg"
+thumbwidth = "200"
+thumbheight = "157">
+	<meta name = "description"><![CDATA[Lorraine Hernandez, who lives in a van in Willets Point, would rather not be photographed in front of it. She chose this backdrop instead. May 28, 2012.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "11_mukhopadhyay_shayok-20120414-willets-pt-joe-rolling-shutter-2-2.jpg"
+width = "634"
+height = "800"
+thumbpath = "11_mukhopadhyay_shayok-20120414-willets-pt-joe-rolling-shutter-2-2.jpg"
+thumbwidth = "158"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[Joe Ardizzone, the only regular resident of Willets Point, has lived here all his life. He wore this costume at a protest (against the city's attempt to forcibly acquire land) to refer to  America's founding principles. Willets Point, April 14, 2012.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "12_mukhopadhyay_shayok-20120317-willets-pt-acdc-junkyard-a.jpg"
+width = "633"
+height = "800"
+thumbpath = "12_mukhopadhyay_shayok-20120317-willets-pt-acdc-junkyard-a.jpg"
+thumbwidth = "158"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[George works at ACDC junkyard, Willets Point. March 7, 2012]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "13_mukhopadhyay_shayok-20120418-laxmi-spices-guard.jpg"
+width = "627"
+height = "800"
+thumbpath = "13_mukhopadhyay_shayok-20120418-laxmi-spices-guard.jpg"
+thumbwidth = "156"
+thumbheight = "200">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[Yusuf, an Indian muslim immigrant who works at Laxmi Spices, a packager and distributor of Indian groceries at Willets Point. April 18, 2012.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "14_mukhopadhyay_shayok-20130217-willets-pt-12.jpg"
+width = "630"
+height = "800"
+thumbpath = "14_mukhopadhyay_shayok-20130217-willets-pt-12.jpg"
+thumbwidth = "157"
+thumbheight = "200">
+	<meta name = "description"><![CDATA["DVD Lady", Willets Point, February 17, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "15_mukhopadhyay_shayok-20130128-13450220130123-willets-pt-1.jpg"
+width = "634"
+height = "800"
+thumbpath = "15_mukhopadhyay_shayok-20130128-13450220130123-willets-pt-1.jpg"
+thumbwidth = "158"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Jimmy Green, scrap metal dealership employee, a rare African American at Willets Point, January 23, 2013,]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "16_mukhopadhyay_shayok-20130202-willets-pt-2.jpg"
+width = "630"
+height = "800"
+thumbpath = "16_mukhopadhyay_shayok-20130202-willets-pt-2.jpg"
+thumbwidth = "157"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Javier, who was blinded in an attack, and wife Theresa, sell snacks at Willets Point, February 2, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "17_mukhopadhyay_shayok-20130124-12465820130117-willets-pt-food-cart-with-awning.jpg"
+width = "800"
+height = "640"
+thumbpath = "17_mukhopadhyay_shayok-20130124-12465820130117-willets-pt-food-cart-with-awning.jpg"
+thumbwidth = "200"
+thumbheight = "160">
+	<meta name = "description"><![CDATA[Rosa Cruz, food vendor, Willets Point, January 17, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "18_mukhopadhyay_shayok-20130217-willets-pt-01.jpg"
+width = "800"
+height = "635"
+thumbpath = "18_mukhopadhyay_shayok-20130217-willets-pt-01.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "description"><![CDATA[Willets Point, February 17, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "19_mukhopadhyay_shayok-20130207-willets-pt-11.jpg"
+width = "800"
+height = "640"
+thumbpath = "19_mukhopadhyay_shayok-20130207-willets-pt-11.jpg"
+thumbwidth = "200"
+thumbheight = "160">
+	<meta name = "description"><![CDATA[In the shadow of Citi Field, Willets Point, February 7, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay shayok@shortwork.net www.shayok.com]]></meta>
+</image>
+
+
+<image
+path = "20_mukhopadhyay_shayok-20120804-willets-pt-power-washer-lady.jpg"
+width = "800"
+height = "620"
+thumbpath = "20_mukhopadhyay_shayok-20120804-willets-pt-power-washer-lady.jpg"
+thumbwidth = "200"
+thumbheight = "155">
+	<meta name = "description"><![CDATA[Olga, with her two children, runs a mobile truck-washing business out of a van. They come to Willets Point every Saturday to wash trucks transporting city waste. August 4, 2012.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "21_mukhopadhyay_shayok-20120411-willets-pt-4-a.jpg"
+width = "800"
+height = "632"
+thumbpath = "21_mukhopadhyay_shayok-20120411-willets-pt-4-a.jpg"
+thumbwidth = "200"
+thumbheight = "158">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[Nicolas works in his family's shop (along with his father Pedro), which chiefly does paint work. Willets Point, April 11, 2012]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "22_mukhopadhyay_shayok-20120428-willets-pt-jorge-3-a.jpg"
+width = "800"
+height = "630"
+thumbpath = "22_mukhopadhyay_shayok-20120428-willets-pt-jorge-3-a.jpg"
+thumbwidth = "200"
+thumbheight = "157">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[Jorge earns commissions by bringing customers to various shops. Willets Point, April 28, 2012]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "23_mukhopadhyay_shayok-20130129-willets-pt-8-sharper.jpg"
+width = "636"
+height = "800"
+thumbpath = "23_mukhopadhyay_shayok-20130129-willets-pt-8-sharper.jpg"
+thumbwidth = "159"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Alejandro, Crown Sanitation, Willets Point, January 29, 2013. He was very admiring of my camera; he said he didn't care for digital cameras at all.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "24_mukhopadhyay_shayok-20130103-willets-pt-11.jpg"
+width = "800"
+height = "631"
+thumbpath = "24_mukhopadhyay_shayok-20130103-willets-pt-11.jpg"
+thumbwidth = "200"
+thumbheight = "157">
+	<meta name = "description"><![CDATA[Jason, a Honduran immigrant,  on happening to peek into my portfolio as I was showing it to others, demanded that I stop by his shop and photograph him. Willets Point, January 3, 2013.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "25_mukhopadhyay_shayok-20120519-willets-pt-estadio-1.jpg"
+width = "800"
+height = "623"
+thumbpath = "25_mukhopadhyay_shayok-20120519-willets-pt-estadio-1.jpg"
+thumbwidth = "200"
+thumbheight = "155">
+	<meta name = "title"><![CDATA[People of Willets Point]]></meta>
+	<meta name = "description"><![CDATA[A session of barbecue, beer, and other stimulants in an empty lot of a former junkyard that was bought up by the city as a part of its program to acquire land for the redevelopment project. The lot is used for soccer games (hence the "estadio" sign). It stands in stark contrast to the shiny new Citi Field baseball stadium next door. The leftmost person is Carlos, who according to what Tito Rivera (next to him) told me on August 11 got into a fight and was left to die some time in July 2012. Next to Tito is Ricardo. Willets Point, May 19, 2012. In January 2013, it appeared that the owners had re-asserted conrol, cleaning and fencing the lot.]]></meta>
+	<meta name = "copyright"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+</images>
+</gallery>

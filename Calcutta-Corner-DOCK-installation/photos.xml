@@ -1,0 +1,91 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>Calcutta Corner: installation at DOCK, Basel</sitename>
+	<photographer>Shayok Mukhopadhyay</photographer>
+	<contactinfo>shayok@shortwork.net</contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "2"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "Mukhopadhyay_Shayok_01_Calcutta_Corner_DOCK_installation.jpg"
+width = "800"
+height = "405"
+thumbpath = "Mukhopadhyay_Shayok_01_Calcutta_Corner_DOCK_installation.jpg"
+thumbwidth = "200"
+thumbheight = "101">
+	<meta name = "title"><![CDATA[Calcutta Corner installation at DOCK, Basel]]></meta>
+	<meta name = "description"><![CDATA[Calcutta Corner installation at DOCK, Basel]]></meta>
+</image>
+
+
+<image
+path = "Mukhopadhyay_Shayok_02_Calcutta_Corner_DOCK_installation.jpg"
+width = "800"
+height = "398"
+thumbpath = "Mukhopadhyay_Shayok_02_Calcutta_Corner_DOCK_installation.jpg"
+thumbwidth = "200"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Calcutta Corner installation at DOCK, Basel]]></meta>
+	<meta name = "description"><![CDATA[Calcutta Corner installation at DOCK, Basel]]></meta>
+</image>
+
+
+<image
+path = "Mukhopadhyay_Shayok_03_Calcutta_Corner_DOCK_installation.jpg"
+width = "800"
+height = "533"
+thumbpath = "Mukhopadhyay_Shayok_03_Calcutta_Corner_DOCK_installation.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+	<meta name = "title"><![CDATA[Calcutta Corner installation at DOCK, Basel]]></meta>
+	<meta name = "description"><![CDATA[Calcutta Corner installation at DOCK, Basel]]></meta>
+</image>
+
+
+<image
+path = "Mukhopadhyay_Shayok_04_Calcutta_Corner_DOCK_installation.jpg"
+width = "800"
+height = "533"
+thumbpath = "Mukhopadhyay_Shayok_04_Calcutta_Corner_DOCK_installation.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+	<meta name = "title"><![CDATA[Calcutta Corner installation at DOCK, Basel]]></meta>
+	<meta name = "description"><![CDATA[Calcutta Corner installation at DOCK, Basel]]></meta>
+</image>
+
+
+<image
+path = "Mukhopadhyay_Shayok_05_Calcutta_Corner_DOCK_installation.jpg"
+width = "527"
+height = "800"
+thumbpath = "Mukhopadhyay_Shayok_05_Calcutta_Corner_DOCK_installation.jpg"
+thumbwidth = "131"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Calcutta Corner: tram detail]]></meta>
+</image>
+
+
+<image
+path = "Mukhopadhyay_Shayok_06_Calcutta_Corner_DOCK_installation.jpg"
+width = "528"
+height = "800"
+thumbpath = "Mukhopadhyay_Shayok_06_Calcutta_Corner_DOCK_installation.jpg"
+thumbwidth = "132"
+thumbheight = "200">
+	<meta name = "description"><![CDATA[Calcutta Corner: pharmacy detail]]></meta>
+</image>
+
+</images>
+</gallery>

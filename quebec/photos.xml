@@ -1,0 +1,501 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "4/8/2010">
+	<sitename>Québec</sitename>
+	<photographer></photographer>
+	<contactinfo>info@quebecimages.net</contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "2" col = "6"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "0010-barn_MG_3227 copy.jpg"
+width = "450"
+height = "298"
+thumbpath = "0010-barn_MG_3227 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0020-barn_MG_3212 copy.jpg"
+width = "450"
+height = "295"
+thumbpath = "0020-barn_MG_3212 copy.jpg"
+thumbwidth = "100"
+thumbheight = "65">
+</image>
+
+
+<image
+path = "0030-barns_MG_3343b copy.jpg"
+width = "450"
+height = "298"
+thumbpath = "0030-barns_MG_3343b copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0035-_MG_5847 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0035-_MG_5847 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0050-airport_MG_3128 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0050-airport_MG_3128 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0060-barns_MG_3363 copy.jpg"
+width = "450"
+height = "300"
+thumbpath = "0060-barns_MG_3363 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0070-boat_MG_2509 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0070-boat_MG_2509 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0075-camper_MG_2524 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0075-camper_MG_2524 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0077-_MG_6234 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0077-_MG_6234 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0080-patio-shack_MG_3102 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0080-patio-shack_MG_3102 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0100-car_MG_2498 copy.jpg"
+width = "450"
+height = "298"
+thumbpath = "0100-car_MG_2498 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0105-tv-tv_MG_2601 copy.jpg"
+width = "450"
+height = "298"
+thumbpath = "0105-tv-tv_MG_2601 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0110-camper-n-house_MG_3301 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0110-camper-n-house_MG_3301 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0120-cemetery_MG_3058 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0120-cemetery_MG_3058 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0130-coke_MG_2517 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0130-coke_MG_2517 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0135-swings_MG_2558 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0135-swings_MG_2558 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0137-tv-tv_MG_2618 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0137-tv-tv_MG_2618 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0140-farm-structures_MG_2661 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0140-farm-structures_MG_2661 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0150-escher_MG_3073 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0150-escher_MG_3073 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0160-grain-storage_MG_2658 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0160-grain-storage_MG_2658 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0170-ice-fishing-huts_MG_2877 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0170-ice-fishing-huts_MG_2877 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0180-ice-festival_MG_3060 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0180-ice-festival_MG_3060 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0190-landscape_MG_3121 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0190-landscape_MG_3121 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0200-overpass_MG_2727 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0200-overpass_MG_2727 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0210-rail-bridge_MG_3095 copy.jpg"
+width = "450"
+height = "298"
+thumbpath = "0210-rail-bridge_MG_3095 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0220-semi-trailers_MG_2739 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0220-semi-trailers_MG_2739 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0230-village-cypresses_MG_3219 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0230-village-cypresses_MG_3219 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0235-wreck_MG_3279 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0235-wreck_MG_3279 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0260-_MG_5356 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0260-_MG_5356 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0270-_MG_5248 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0270-_MG_5248 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0280-_MG_5250 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0280-_MG_5250 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0290-_MG_5262 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0290-_MG_5262 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0300-_MG_5304 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0300-_MG_5304 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0310-_MG_6012 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0310-_MG_6012 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0340-_MG_5368 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0340-_MG_5368 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0370-paraboarding_MG_2853 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0370-paraboarding_MG_2853 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0380-_MG_6273 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0380-_MG_6273 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0390-_MG_5633 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0390-_MG_5633 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0400-_MG_6374 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0400-_MG_6374 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0430-_MG_6399 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0430-_MG_6399 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0440-_MG_6408 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0440-_MG_6408 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0450-_MG_6446 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0450-_MG_6446 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0460-_MG_5997 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0460-_MG_5997 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0470-_MG_5668 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0470-_MG_5668 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0480-_MG_6342 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0480-_MG_6342 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0485-_MG_6251.jpg"
+width = "450"
+height = "300"
+thumbpath = "0485-_MG_6251.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0490-_MG_5648 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0490-_MG_5648 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+
+<image
+path = "0500-_MG_5342 copy.jpg"
+width = "450"
+height = "299"
+thumbpath = "0500-_MG_5342 copy.jpg"
+thumbwidth = "100"
+thumbheight = "66">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,201 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>Moribund Mall</sitename>
+	<photographer>Shayok Mukhopadhyay</photographer>
+	<contactinfo>shayok@shortwork.net</contactinfo>
+	<email>shayok@shortwork.net</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "4"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "moribund-mall-shayok-01-20111119-114822_MG_6918-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-01-20111119-114822_MG_6918-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-02-20111028-141241_MG_2271-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-02-20111028-141241_MG_2271-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-03-20111119-121743_MG_6945-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-03-20111119-121743_MG_6945-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-04-20111028-143547_MG_2281-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-04-20111028-143547_MG_2281-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-05-20111028-142550_MG_2278-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-05-20111028-142550_MG_2278-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-06-20111028-143847_MG_2287-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-06-20111028-143847_MG_2287-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-07-20111119-122235_MG_6950-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-07-20111119-122235_MG_6950-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-08-20111119-125302_MG_6963-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-08-20111119-125302_MG_6963-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-09-20111119-120845_MG_6930-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-09-20111119-120845_MG_6930-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-10-20111119-130016_MG_6971-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-10-20111119-130016_MG_6971-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-11-20111119-132541_MG_6980-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-11-20111119-132541_MG_6980-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+
+<image
+path = "moribund-mall-shayok-12-20111119-134221_MG_6982-Edit.jpg"
+width = "450"
+height = "299"
+thumbpath = "moribund-mall-shayok-12-20111119-134221_MG_6982-Edit.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+	<meta name = "title"><![CDATA[Moribund Mall]]></meta>
+	<meta name = "description"><![CDATA[Nanuet Mall
+
+copyright Shayok Mukhopadhyay
+www.shayok.com
+shayok@shortwork.net]]></meta>
+</image>
+
+</images>
+</gallery>
