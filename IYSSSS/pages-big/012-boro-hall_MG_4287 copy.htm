@@ -1,0 +1,115 @@
+<html>
+<head>
+	<TITLE>Say Something!##BIG</TITLE>
+	<META name="generator" content="Adobe Photoshop(R) CS Web Photo Gallery">
+	<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link href="../images/galleryStyle.css" rel="stylesheet" type="text/css">
+
+	<script>
+
+	function ifExistsWrite(str){
+		var re = new RegExp ('\"', 'gi') ;
+		var newstr = str.replace(re, '&quot;');
+		if (newstr != "")
+			document.write(newstr+"<br>");
+	}
+
+      function isBigImage() {
+        var title = "Say Something!##BIG";
+        if (title.match(/##BIG$/)) {
+          return true;
+        } else {
+          return false;
+        }
+      }
+
+	function writeOtherSizeLink(str) {
+		var re = new RegExp ('\.jpg', 'gi') ;
+		var newstr = str.replace(re, '.htm');
+		if (isBigImage()) {
+			document.write('<a href="../pages/' + newstr + '"><img border=0 src="../images/minus.jpg"></a>' + '<br>'); 
+		} else {
+			document.write('<a href="../pages-big/' + newstr + '"><img border=0 src="../images/plus.jpg"></a>' + '<br>');
+		}
+	}
+
+      function writeSizedImage(imageLink) {
+        var sizedImageLink = imageLink;
+        if (isBigImage()) {
+          sizedImageLink = imageLink.replace(/\/images\//, '/images-big/');
+        }
+        document.write( '<img border=0 src="' + sizedImageLink + '"' );
+      }
+
+	</script>
+
+</head>
+<body bgcolor="#000000" marginheight=0 marginwidth=0 leftmargin=0 topmargin=0>
+
+<table height=100% width=100%>
+<tr>
+<td align=middle valign=top>
+<table height=100% width=100% cellpadding=0 cellspacing=0 border=0 bgcolor="#000000">
+<tr>
+<td colspan=3 align=middle>
+<a href="../index.htm"><img border=0 vspace=15 src="../images/home.gif"></a>
+</td>
+</tr>
+
+<tr>
+</tr>
+<tr>
+<td align=middle>
+<table cellpadding=5 cellspacing=0 border=0 bgcolor="#000000"><tr>
+<td valign=top align=middle>
+<A name=12 href="../index.htm"><script>writeSizedImage("../images/012-boro-hall_MG_4287%20copy.jpg");</script>" width="1125" height="750" alt="012-boro-hall_MG_4287 copy"></A><BR>
+</td>
+</tr>
+<tr>
+<td align=middle> <script>writeOtherSizeLink("012-boro-hall_MG_4287%20copy.jpg");</script> </td>
+</tr></table>
+</td>
+</tr>
+<tr>
+</tr>
+
+<tr><td colspan=3 align=left valign=top>
+<table cellpadding=0 cellspacing=0 border=0 bgcolor="#000000" height=100% width=100%>
+<tr>
+<td align=middle>
+<table cellpadding=0 cellspacing=0 border=0 bgcolor="#000000"><tr>
+<td width=17><a href="011-feet_MG_5017%20copy.htm"><IMG SRC="../images/arrow_prev.gif" BORDER=0></a></td>
+<td valign=top align=middle>
+<font color=#FFFFFF>
+<div id="titleframe">
+<div id="imageInfo">
+<div class="content">
+<script>
+ifExistsWrite("");
+ifExistsWrite("Borough Hall I");
+ifExistsWrite("");
+ifExistsWrite("");
+ifExistsWrite("");
+</script>
+</div>
+</div>
+</div>
+</font>
+</td>
+<td align=right width=17><a href="013-boro-hall-2%20copy.htm"><img border=0 src="../images/arrow_next.gif"></a></td>
+</tr></table>
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
